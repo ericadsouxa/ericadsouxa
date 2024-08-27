@@ -1,8 +1,7 @@
  Hello
 
 
-- 🔭 I’m currently working on ethical hacking. 
-- 🌱 I’m currently learning network security.
+- 🔭 I’m currently working as Software Developer.
 - 📫 How to reach me: ericadsouxa@gmail.com
 
 
